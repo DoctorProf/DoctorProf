@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Here you can find some statistics about my activit
 
 ## Most Used Languages
 
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorProf&langs_count=5&theme=tokyonight)
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorProf&langs_count=10&theme=tokyonight)
 
 ## Connect with me
 
