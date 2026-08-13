@@ -1,10 +1,8 @@
-# 👋 Hi,
+# 👋 Hi, I'm Dmitry
 
 ### C++ Developer | Systems & Backend | Graphics
 
-I'm a C++ developer who enjoys building projects from scratch and understanding how things work under the hood.
-
-I work with C++, algorithms, multithreading, networking, client-server architecture and system development. I'm also interested in computer graphics, physics simulations and machine learning.
+I'm a C++ developer who enjoys building projects from scratch and understanding how things work under the hood. I work with C++, algorithms, multithreading, networking and client-server architecture. I'm also interested in computer graphics, physics simulations and machine learning.
 
 ---
 
@@ -25,39 +23,35 @@ I work with C++, algorithms, multithreading, networking, client-server architect
 ### Languages
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 ### Development
 
-- C++17 / C++20
-- STL
-- OOP
-- Multithreading
+- STL, OOP, Multithreading
 - Algorithms & Data Structures
-- Networking
-- REST API
+- Networking, REST API
 - Client-server architecture
-- Git
-- Linux
-- CMake
+- Git, CMake, vcpkg
 
 ### Graphics & Simulation
 
 - Ray Casting
-- Computer Graphics
 - Collision Detection
 - Physics Simulation
-- Spatial Grid
-- Rendering
+- Spatial Grid / Broad-phase optimization
 
 ### Other
 
-- Neural Networks
+- Neural Networks (from scratch)
+- Embedded (ESP32, Arduino framework)
 - DLL / Dynamic Libraries
-- JSON
-- Qt
-- PostgreSQL
+- Qt, SFML, TGUI, Wt
+- Crow, cpp-httplib, nlohmann-json
 
 ---
 
@@ -65,70 +59,53 @@ I work with C++, algorithms, multithreading, networking, client-server architect
 
 ### 💡 LED Controller
 
-A client-server system for controlling an addressable LED strip.
+A client-server system for controlling an addressable LED strip. Diploma project, in active use.
 
-- C++ backend
-- REST API
-- ESP32 communication
-- Qt client
-- Dynamic DLL-based modes
+- C++ backend with REST API (Crow)
+- ESP32 firmware (Arduino framework)
+- Qt desktop client
+- Multithreaded architecture
+- Dynamic DLL-based lighting modes
 - JSON configuration
-- LED effects and parameters
 
 ### 🎮 Ray Casting Engine
 
-A graphics engine built from scratch.
+A classic Wolfenstein-style 2.5D graphics engine, built entirely from scratch.
 
-- Ray casting
-- Rendering
+- Ray casting algorithm
 - Texture mapping
 - Collision detection
-- Spatial optimization
 
 ### 🧠 Neural Networks From Scratch
 
-Implemented neural network algorithms without high-level ML frameworks.
+Neural network implementations without high-level ML frameworks (mostly C++/SFML, one in plain C).
 
-- Perceptron
-- Multilayer neural networks
+- Perceptron / MLP
 - Forward propagation
-- Backpropagation
-- Activation functions
-- Training algorithms
+- Hand-written backpropagation
 
-### ⚙️ Physics Simulations
+### ⚙️ Physics Simulation
 
-C++ projects focused on physics and numerical simulation.
+A collision physics simulation written in C.
 
-- Collision detection
-- Particle systems
-- Physical interactions
-- Spatial partitioning
-- Simulation optimization
+- Impulse-based collision resolution
+- Spatial partitioning grid for broad-phase collision detection
 
----
+### 🗄️ CRUD Applications
 
-## 🏆 Achievements
-
-🥈 **2nd place** — Championship "Professionals"  
-**Business Software Solutions**
-
-🥇 **1st place** — Regional stage  
-**Mobile Development**
+Desktop CRUD applications in C# with an MSSQL database.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DoctorProf&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorProf&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📫 Let's Connect
 
-I'm open to interesting C++ projects and development opportunities.
-
-Feel free to explore my repositories and see what I'm building.
+I'm open to interesting C++ projects and development opportunities. Feel free to explore my repositories and see what I'm building.
